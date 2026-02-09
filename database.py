@@ -575,3 +575,4 @@ def delete_ride(ride_id):
 if __name__ == '__main__':
     init_db()
     print("База данных успешно инициализирована и обновлена")
+
